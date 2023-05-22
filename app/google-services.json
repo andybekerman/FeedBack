@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263817452610",
+    "firebase_url": "https://feedback-afe56-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "feedback-afe56",
+    "storage_bucket": "feedback-afe56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263817452610:android:6161b1e58319a3ebaba1db",
+        "android_client_info": {
+          "package_name": "com.example.feedback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263817452610-pqiqpcbj6vc0cqjoigsno9rld01c18a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZg4TLjM2Y5l_4g9-5L5Gr33zk0LodAH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263817452610-pqiqpcbj6vc0cqjoigsno9rld01c18a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
